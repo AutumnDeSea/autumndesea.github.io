@@ -104,5 +104,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/AutumnDeSea/hexo-blog.git  #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: [main]
+  branch: [master]
   message: [message]
